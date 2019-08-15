@@ -1,0 +1,11 @@
+# Old python file not using Log and faces the issue of Underflow
+forwardbackward_old.py
+
+# Zip and tar files
+*.zip
+*.tar
+
+# Self-reference files
+S19_10601_Recitation_7.pdf
+*.mp4
+*.tex
